@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+body{
+    background-color: #E5E5E5;
+}
+.container-fluid{
+    text-align: center;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.bg-yellow{
+    background-color: #FEEFC3;
+    border-style: hidden;
+    border-radius: 10px;
+}
+.card{
+    margin: 6%;
+    
+}
+.col-sm-5{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left:2%;
+}
+.col-sm-6{
+    margin-left: 6%;
+    margin-top: 3%;
+}
+.auth{
+    color: #E37400;
+}
+.auth2{
+    color:#e3a300;
+}
+.img-rounded{
+    width: 100%;
+}
+.bg-green{
+    background-color: #CEEAD6;
+    border-style: hidden;
+    border-radius: 10px;
+}
+.value{
+    font-size:xx-large;
+    color: #0D652D;
+    font-weight: bold;
+}
+.bg-red{
+    background-color: #FAD2CF;
+    border-radius: 10px;
+    border-style: hidden;
+}
+.needcenter{
+    text-align: center;
+}
+.Jumbotron{
+    margin:10%;
+    
+}
+.bio{
+    margin: 10%;
+}
+.banner-red{
+    background-color: #EA4335;
+}
+.banner-orange{
+    background-color: #E37400;
+}
+.banner-green{
+    background-color: #34A853;
+}
+.banner-blue{
+    background-color: #4285F4;
+}
+.bg-blue{
+    background-color: #BFDBFE;
+    border-radius: 10px;
+    border-style: hidden;
+}
